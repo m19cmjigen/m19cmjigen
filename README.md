@@ -3,12 +3,10 @@
 <!--
 **m19cmjigen/m19cmjigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m19cmjigen&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m19cmjigen
-)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m19cmjigen)]
-(https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m19cmjigen&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m19cmjigen&theme=onedark&show_icons=ture" />
+</p>
 
 Here are some ideas to get you started:
 
